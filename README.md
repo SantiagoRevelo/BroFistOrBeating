@@ -1,2 +1,0 @@
-# BroFistOrBeating
-Primer proyecto Trinchete
